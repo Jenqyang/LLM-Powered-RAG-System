@@ -12,21 +12,21 @@
 
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
 - [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
-- [embedchain](https://github.com/embedchain/embedchain) - Embedchain is an Open Source RAG Framework that makes it easy to create and deploy AI apps. 
-- [fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework
-- [fastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
-- [canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
-- [llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.
-- [vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
-- [autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
+- [embedchain](https://github.com/embedchain/embedchain) - Embedchain is an Open Source RAG Framework that makes it easy to create and deploy AI apps. - ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
+- [fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework - ![GitHub Repo stars](https://img.shields.io/github/stars/IntelLabs/fastRAG?style=social)
+- [llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. - ![GitHub Repo stars](https://img.shields.io/github/stars/llmware-ai/llmware?style=social)
+- [llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production. - ![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-applications?style=social)
+- [vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. - ![GitHub Repo stars](https://img.shields.io/github/stars/vanna-ai/vanna?style=social)
+- [canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone - ![GitHub Repo stars](https://img.shields.io/github/stars/pinecone-io/canopy?style=social)
+- [autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds. - ![GitHub Repo stars](https://img.shields.io/github/stars/safevideo/autollm?style=social)
 
 
 ## Projects
 
 - [quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !
+- [fastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization! - ![GitHub Repo stars](https://img.shields.io/github/stars/labring/FastGPT?style=social)
 - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答
 - [LangChain-ChatGLM-Webui](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui) - 基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答
-- [llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source multi-user ChatGPT for all LLMs, embedders, and vector databases. Unlimited documents, messages, and users in one privacy-focused app.
 - [danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
