@@ -22,6 +22,7 @@
 - [llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models. - ![GitHub Repo stars](https://img.shields.io/github/stars/llmware-ai/llmware?style=social)
 - [llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production. - ![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-applications?style=social)
 - [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology - ![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social)
+- [pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone - ![GitHub Repo stars](https://img.shields.io/github/stars/pinecone-io/canopy?style=social)
 - [autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds. - ![GitHub Repo stars](https://img.shields.io/github/stars/safevideo/autollm?style=social)
 
