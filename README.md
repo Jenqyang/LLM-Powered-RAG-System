@@ -16,6 +16,7 @@
 
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
 - [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
+- [graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social)
 - [embedchain](https://github.com/embedchain/embedchain) - Embedchain is an Open Source RAG Framework that makes it easy to create and deploy AI apps. - ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 - [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Dense Retrieval and Retrieval-augmented LLMs - ![GitHub Repo stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social)
 - [fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework - ![GitHub Repo stars](https://img.shields.io/github/stars/IntelLabs/fastRAG?style=social)
