@@ -90,6 +90,7 @@
 
 - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
 - [A-Guide-to-Retrieval-Augmented-LLM](https://github.com/Wang-Shuo/A-Guide-to-Retrieval-Augmented-LLM)
+- [一文详谈20多种RAG优化方法](https://mp.weixin.qq.com/s/xMsPh8qicRD395vjFR250A)
 
 
 ## Other Resources
