@@ -75,6 +75,7 @@
 - [instructor](https://github.com/jxnl/instructor) - Your Gateway to Structured Outputs with OpenAI
 - [swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open source software that simultaneously searches multiple content sources and returns AI ranked results. - ![GitHub Repo stars](https://img.shields.io/github/stars/swirlai/swirl-search?style=social)
 - [kernel-memory](https://github.com/microsoft/kernel-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations. - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/kernel-memory?style=social)
+- [RAGFoundry](https://github.com/IntelLabs/RAGFoundry) - Framework for specializing LLMs for retrieval-augmented-generation tasks using fine-tuning. - ![GitHub Repo stars](https://img.shields.io/github/stars/IntelLabs/RAGFoundry?style=social)
 
 ### Others
 
