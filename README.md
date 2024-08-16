@@ -8,6 +8,7 @@
     - [Database](#database)
     - [Optimize Method](#optimize-method)
     - [Others](#others)
+  - [Evaluation](#evaluation)
   - [Papers](#papers)
   - [Blog](#blog)
   - [Other Resources](#other-resources)
@@ -81,6 +82,10 @@
 
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮 - ![GitHub Repo stars](https://img.shields.io/github/stars/gabrielchua/RAGxplorer?style=social)
+
+## Evaluation
+
+- [ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines - ![GitHub Repo stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social)
 
 ## Papers
 
