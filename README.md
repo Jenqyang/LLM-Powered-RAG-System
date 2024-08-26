@@ -46,6 +46,7 @@
 - [trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM - ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/trt-llm-rag-windows?style=social)
 - [GPT-RAG](https://github.com/Azure/GPT-RAG) - GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. - ![GitHub Repo stars](https://img.shields.io/github/stars/Azure/GPT-RAG?style=social)
 - [rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch - ![GitHub Repo stars](https://img.shields.io/github/stars/pchunduri6/rag-demystified?style=social)
+- [cody](https://github.com/sourcegraph/cody) - Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code. - ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegraph/cody?style=social)
 - [repo-chat](https://github.com/mckaywrigley/repo-chat) - Use AI to ask questions about any GitHub repo. - ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/repo-chat?style=social)
 
 ## Components
