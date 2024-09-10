@@ -49,6 +49,7 @@
 - [cody](https://github.com/sourcegraph/cody) - Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code. - ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegraph/cody?style=social)
 - [adrenaline](https://github.com/shobrook/adrenaline) - Instant answers to any programming question - ![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/adrenaline?style=social)
 - [repo-chat](https://github.com/mckaywrigley/repo-chat) - Use AI to ask questions about any GitHub repo. - ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/repo-chat?style=social)
+- [LARS](https://github.com/abgulati/LARS) - An application for running LLMs locally on your device, with your documents, facilitating detailed citations in generated responses. - ![GitHub Repo stars](https://img.shields.io/github/stars/abgulati/LARS?style=social)
 
 ## Components
 
