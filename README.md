@@ -12,6 +12,7 @@
   - [Papers](#papers)
   - [Blog](#blog)
   - [Other Resources](#other-resources)
+  - [公众号](#公众号)
 
 ## Frameworks
 
@@ -109,3 +110,9 @@
 - [rag-resources](https://github.com/mrdbourke/rag-resources) - A collection of curated RAG (Retrieval Augmented Generation) resources.
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
 - [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) - the resources about the application based on LLM with RAG pattern
+
+## 公众号
+
+公众号：「ChaosstuffAI」
+
+<img src="./images/gongzhonghao.png" width="35%">
