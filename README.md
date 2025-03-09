@@ -12,7 +12,6 @@
   - [Papers](#papers)
   - [Blog](#blog)
   - [Other Resources](#other-resources)
-  - [公众号](#公众号)
 
 ## Frameworks
 
@@ -111,8 +110,4 @@
 - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)
 - [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) - the resources about the application based on LLM with RAG pattern
 
-## 公众号
-
-公众号：「ChaosstuffAI」
-
-<img src="./images/gongzhonghao.png" width="35%">
+[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jenqyanghou) [![WeChat Badge](https://img.shields.io/badge/WeChat-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)](https://www.zhengyang.me/wechat)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/zhengyanghou)
